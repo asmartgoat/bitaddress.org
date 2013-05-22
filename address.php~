@@ -5811,7 +5811,7 @@ View Licenses at: https://peerco.in/address.php.license
 		
 		<div id="generate">
 			<div class="panel" id="generatelabelppcoinaddress">Generating PPCoin Address...</div><br />
-			<div class="panel callout" id="generatelabelmovemouse"><h5>Be secure!</h5><p>MOVE your mouse around to add some extra randomness...</p></div><br />
+			<div class="panel .callout" id="generatelabelmovemouse"><h5>Be secure!</h5><p>MOVE your mouse around to add some extra randomness...</p></div><br />
 		</div>
 
 		<div id="wallets">
